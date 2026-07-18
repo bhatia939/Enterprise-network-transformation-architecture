@@ -60,7 +60,9 @@ The objective is to identify technology, security, operational, automation, skil
 ├── technology-gap-analysis.md
 ├── process-gap-analysis.md
 ├── risk-and-dependency-analysis.md
-└── transformation-roadmap.md
+├── transformation-roadmap.md
+└── cloud-gap=analysis.md
+
 ```
 
 ---
