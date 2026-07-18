@@ -1,2 +1,0 @@
-# Enterprise-network-transformation-architecture
-Enterprise network transformation from a traditional VLAN-based network to a secure, scalable, automated architecture using Cisco SD-Access, ISE, Catalyst Center, SD-WAN, and automation. Applies TOGAF, ArchiMate, arc42, SAFe, and COBIT for architecture, documentation, delivery, governance, and risk management.
